@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Books</name>
+   <tag></tag>
+   <elementGuidId>decd977f-691d-4ac8-9758-30b6ed634952</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(7) > a.hmenu-item > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmenu-content']/ul/ul/li[7]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Books&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b984123-45b7-4ba9-9c4a-549bfd004328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Books</value>
+      <webElementGuid>dfca7417-0d0f-440b-bbe8-27099506765f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmenu-content&quot;)/ul[@class=&quot;hmenu hmenu-visible&quot;]/ul[@class=&quot;hmenu-compress-section&quot;]/li[7]/a[@class=&quot;hmenu-item&quot;]/div[1]</value>
+      <webElementGuid>1dcc5fbb-04f7-4f3f-bf39-f50a0f3b08a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmenu-content']/ul/ul/li[7]/a/div</value>
+      <webElementGuid>2fc41e74-e81d-4c8c-bb2b-bcc00f529b3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Car, Motorbike, Industrial'])[1]/following::div[1]</value>
+      <webElementGuid>f634f5e2-9bc9-4dae-b8b9-a47daee4532c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Movies, Music &amp; Video Games'])[1]/preceding::div[1]</value>
+      <webElementGuid>aab32e6a-d05d-462f-b03e-32526f1db861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See all'])[1]/preceding::div[2]</value>
+      <webElementGuid>28d021f3-4efe-4b67-894d-1af62d36ddcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a/div</value>
+      <webElementGuid>146d7323-af49-4784-9fe9-ae8186d33fdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Books' or . = 'Books')]</value>
+      <webElementGuid>078068cb-2f90-4f5a-b4c1-f7d7a04a7c5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
